@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{D7EF783E-1F81-FC80-230F-8503BB368E26}|">
+﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameLoop.cs">
     <Files>
-      <File FileName="Assets/Scripts/GameLoop.cs" Line="41" Column="58" />
+      <File FileName="Assets/Scripts/GameLoop.cs" Line="41" Column="53" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
